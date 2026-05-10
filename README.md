@@ -1,5 +1,12 @@
-# my-project
-its my first proect
-hello my name is antoni
-i usually get up at 7 o clock
-mishiko is 11 years old
+# 🎮 ჩემი პირველი პროექტი
+
+## რა არის ეს?
+ეს არის ჩემი პირველი GitHub პროექტი. შევქმენი 
+მე-6 კლასში! 🚀
+
+## ავტორი 
+**სახელი:** ალექსი     **კლასი** მე-6
+
+## ფაილები
+- `index.html` - მთავარი კოდი
+- `README.md` - ეს ფაილი
